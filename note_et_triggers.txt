@@ -1,0 +1,26 @@
+VIEWS :
+-------
+VIEW :
+Carnet de santé / modification d'un oiseau. Tous les soins qu'il a subit.
+
+VIEW:
+Carte des services
+
+VIEW : 
+Liste des différents types de nourriture à vendre (dont oiseau farcit) ?
+
+VIEW: 
+Vues comptable:
+ - liste achat de nourritures
+ - liste achat d'oiseaux
+ - Liste des stocks de nourriture (et oiseaux farcits)
+
+VIEW : 
+Liste oiseaux à vendre 
+
+VIEWS:
+[client] 
+- Voir ses commandes 
+- Voir ses oiseaux
+- Voir carnets de santé de ses oiseaux
+- 
